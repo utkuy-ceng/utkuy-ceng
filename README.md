@@ -1,11 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="#">
-    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true&custom_title=utkuy-ceng's%20GitHub%20Stats" style="width: 50%; max-width: 50%; height: auto;" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="width: 50%; max-width: 50%; height: auto;" />
+    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true&custom_title=utkuy-ceng's%20GitHub%20Stats" style="width: 50%; max-width: 400px; height: auto;" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="width: 50%; max-width: 400px; height: auto;" />
   </a>
 </div>
+
 
 
 # Education
