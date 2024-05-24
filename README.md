@@ -1,13 +1,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utkuy-ceng&theme=react-dark)](https://github.com/utkuy-ceng/github-readme-activity-graph)
 
 <div align="center">
+    <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="width: 100%; height: auto;" />
+  </a>
   <a href="#">
     <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true&custom_title=utkuy-ceng's%20GitHub%20Stats" style="width: 100%; height: auto;" />
   </a>
   <br>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="width: 100%; height: auto;" />
-  </a>
 </div>
 
 
