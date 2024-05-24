@@ -1,9 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
   <a href="#">
-    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true&custom_title=utkuy-ceng's%20GitHub%20Stats" style="flex: 1; object-fit: cover;" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="flex: 1; object-fit: cover;" />
+    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true&custom_title=utkuy-ceng's%20GitHub%20Stats" style="flex: 1; object-fit: cover;" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="flex: 1; object-fit: cover;" />
   </a>
 </div>
 
