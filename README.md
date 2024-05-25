@@ -2,8 +2,8 @@
 
 <div align="center">
     <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuy-ceng&theme=dark" style="width: 45%; height: 165px" />
-    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true" style="width: 45%; height: 152px;" />
+    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api/top-langs/?username=utkuy-ceng&show_icons=true&amp;locale=en&amp;layout=compact&count_private=true&theme=dark&include_all_commits=true" style="max-width: 100%;height:150px;" />
+    <img src="https://github-readme-stats-utkuy-cengs-projects.vercel.app/api?username=utkuy-ceng&show_icons=true&locale=en&count_private=true&theme=dark&include_all_commits=true" style="max-width: 100%;height:150px;" />
   </a>
   <br>
 </div>
